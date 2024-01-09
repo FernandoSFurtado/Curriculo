@@ -1,0 +1,30 @@
+footer {
+    background-color: #222;
+    padding: 16px 0;
+    width: 100%;
+    min-height: 5%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: fixed;
+    bottom: 0;
+
+    span {
+        font-size: 0.8em;
+        font-weight: 200;
+    }
+}
+
+@media screen and (max-width: 1290px) {
+    footer {
+        position: relative;
+    }
+}
+
+@media screen and (max-width: 395px) {
+    span {
+        text-align: center;
+    }
+}
