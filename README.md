@@ -25,10 +25,14 @@ Execute no terminal dentro da pasta do projeto:
 npm start
 ```
 
+Ou acesse pela URL:
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) - https://curriculo-black-alpha.vercel.app/
+
 ### 📦 Tecnologias usadas
 
-* [React JS](https://react.dev/)
-* [SASS](https://sass-lang.com/)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### 👷🏼‍♂️ Autores / Colaboradores
 
